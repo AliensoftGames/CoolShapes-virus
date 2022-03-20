@@ -5,7 +5,7 @@ This is a virus that I created and it's about screensavers.Basically once you ru
 About
 
 The virus is written in C# and is open-source.Once you download the VS project you can do whatever you want with the code.
-If you want to just open the virus without publishing it,just go to virus2\virus2\publish\Application Files\CoolShapes_1_0_0_0\CoolShapes.zip
+If you want to just open the virus without publishing it,just go to virus2\virus2\publish\Application Files\CoolShapes_1_0_0_0\CoolShapes.zip.
 Before extracting,make sure you turn off your antivirus.
 
 Build
