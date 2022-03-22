@@ -11,3 +11,7 @@ Before extracting,make sure you turn off your antivirus.
 # Build
 
 Go to project window,virus2 properties then go to publish and hit "Publish now".You don't need to modify something,everything is setted up.
+
+# Open the project
+
+Make sure you download all "virus2" folder.After that,open visual studio (minimum 2019) and click "open a project or solution" and navigate to C:\SomeFoldersThatYouHave\virus2\virus2\virus2.sln and hit open. Done!
